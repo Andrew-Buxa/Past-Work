@@ -1,0 +1,14 @@
+1. When you run the code you'll be prompted to enter a file name, you can do that by just typing in a file name excluding .txt at the end.
+	Ex: andrewdata
+
+2. Type in what function you want to use, Randomized Motif Search, Gibbs Sampling or MEME.
+	Ex: random
+
+3. Enter a k-size
+	Ex: 12
+
+4. Enter an amount of iterations
+	Ex: 1000
+
+5. Let the program run and the results will be returned to you.
+	

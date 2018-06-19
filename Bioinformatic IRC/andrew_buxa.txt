@@ -1,0 +1,74 @@
+82 / 100 IRC Total
+
+9 / 10 Proposal
+	
+Explains what you plan to implement
+	
+Explains Why it is of interest to you
+	
+Specify at least one web site or paper you have already read on the topic
+	
+Describe the *stages* of how you plan to implement your project
+	
+Describe how you will *test* each stage before moving on to the next stage
+	
+
+10 / 10 Progress Report
+	Weekly contact explaining how you are doing
+	
+Notify me of any changes or deviations from your plan
+	
+Notify me of results as you test the different stages of your project
+
+
+5 / 5 Bibliography and Weekly Paper Reading
+	
+Attended weekly readings
+	
+Presented a paper at weekly readings
+	
+Annotated bibliography contains all papers read
+	Annotated bibliography contains short summary of papers
+	
+
+5 / 5 Poster
+	Title / Name / Abstract
+	Easily readable from 3-5 feet away
+	Enough information (not to simple)
+	Images and graphics used to convey ideas -- not just text
+	Explain project / algorithm
+	Results section
+	Related Works / Citations
+	
+8 / 10 Presentation
+	Used 20 minutes for presentation
+	At least a portion was accessible to a general audience
+	Gave enough detail to not be trivial -- explained algorithm / project
+	Results / how you evaluated your project
+	Explained what interested you / What was challenging / What you would do differently
+	Cite sources / resources
+	
+45 / 60 Paper and Code
+	Code is well documented
+	Code is well organized and well formated
+	Clearly state what is your code and what is libraries or tools created by others
+	Code is substantially original
+	Code works correctly and is easy to read
+	Paper has Intro / Relevant work / description of project / results and evaluation / conclusion and future work / References
+	Paper has no grammatical or spelling errors
+	Paper is easy to read but not trivial
+	
+Paper is written in journal style
+	
+	
+	
+
+Comments:
+
+Very nice poster.  Good balance of text and graphics.  Related works section is weak.  Need to find way to express difference between the multiple approaches that you implemented.
+During presentation you need to appear more confident in your work.  It would also have been nice for you to walk through an example for each of the algorithms.  I think the audience didn't completely get how the algorithms worked or the differences between them.
+Your code is well organized and documented.  The method of documentation isn't exactly standard practice.  In Python code usually the commenting happens inside each of the functions, not before them.  I would have liked to have seen test code to demonstrate that the functions are working properly.  Right now it is rather a guess if the functions are behaving correctly.  I don't think you still understand MEME completely and I don't think your code for MEME is working properly.
+Your paper is written in a very casual tone.  For the next IRC please write in a more formal tone.  For examples of the kind of papers, read the journal articles that we read during our reading group for the IRC and try to pattern your writting style after those papers.  You also have some grammatical mistakes (incorrect subject-verb agreement, etc.).  You may want to take your paper to the writing center and have them review it before submission.  I'm also disappointed that you didn't do a little more comparison between the three methods.  You should think about data that will validate the three approaches.  Your evaluation is more of a guess that the algorithms are working correctly.  You do not include any comparison with MEME.  It appears that you didn't get that final step finished.
+You did pick a challenging project that required you to learn several algorithms.  I'm impressed with how far you were able to get.  I would have liked to have seen MEME working properly.
+
+

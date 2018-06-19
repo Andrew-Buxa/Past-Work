@@ -1,0 +1,12 @@
+In order to run the Neural Network, you must run the following programs in order:
+
+Side note: MAKE SURE YOU HAVE PYBRAIN INSTALLED ON YOUR COMPUTER
+
+1: passwordGenerator.py  (To generate all permutations of passwords because sending them in the file wouldn't work, even if it was zipped).
+2: passwordConvertor.py (To convert all the passwords into their binary representations)
+3: SecurityIRCMain.py 
+
+With SecurityIRCMain.py, there will be a delay with user input because the Neural Network will train first on the data. Then you have the commands to use,
+however, you must type in the commands as seen (although it changes your case to lower). When using the "test" command, type in "testDataConv" excluding the
+quotation marks, because that is the data you will be using for testing. Entering in a file that doesn't exist will throw an error (so no testing that, I
+didn't implement that).
